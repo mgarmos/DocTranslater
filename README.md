@@ -13,7 +13,7 @@ La estructura del proyecto debe ser modular desde el inicio para facilitar la es
 
 ---
 
-## 2. **Requisitos Funcionales**
+## 2. **Requisitos Funcionales** 
 
 ### 2.1 **Manejo de eBooks**
 - Leer eBooks en formato EPUB (soporte inicial).
