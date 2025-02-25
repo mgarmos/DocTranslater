@@ -13,7 +13,7 @@ La estructura del proyecto debe ser modular desde el inicio para facilitar la es
 
 ---
 
-## 2. **Requisitos Funcionales**
+## 2. **Requisitos Funcionales** 
 
 ### 2.1 **Manejo de eBooks**
 - Leer eBooks en formato EPUB (soporte inicial).
@@ -80,3 +80,9 @@ ebook-translator/
 │   ├── test_queue_manager.py
 ├── requirements.txt        # Dependencias del proyecto.
 └── README.md               # Documentación inicial del proyecto.
+
+
+## 5. Generar un Archivo EPUB de Muestra
+Para generar un archivo EPUB de muestra, puedes utilizar el script create_sample_epub.py que se encuentra en el directorio tests. Este script crea un archivo EPUB simple para propósitos de prueba.
+
+python tests/create_sample_epub.py
