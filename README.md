@@ -80,3 +80,9 @@ ebook-translator/
 │   ├── test_queue_manager.py
 ├── requirements.txt        # Dependencias del proyecto.
 └── README.md               # Documentación inicial del proyecto.
+
+
+## 5. Generar un Archivo EPUB de Muestra
+Para generar un archivo EPUB de muestra, puedes utilizar el script create_sample_epub.py que se encuentra en el directorio tests. Este script crea un archivo EPUB simple para propósitos de prueba.
+
+python tests/create_sample_epub.py
